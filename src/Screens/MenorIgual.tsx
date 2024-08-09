@@ -19,7 +19,7 @@ export const MenorIgual = () => {
 
   const [resultadoMayor, setResultadoMayor] = useState<number>(0);
   const [resultadoMenor, setResultadoMenor] = useState<number>(0);
-  const [resultadoIgual, setResultadoIgual] = useState<boolean>(false);
+  const [resultadoIgual, setResultadoIgual] = useState<boolean>(true);
 
   const handleSetValues = (name: string, value: number) => {
     setFormMIgual({ ...formMIgual, [name]: value })
