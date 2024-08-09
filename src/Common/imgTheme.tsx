@@ -1,0 +1,2 @@
+export const IMAGEN_UNO = 'https://cdns-images.dzcdn.net/images/artist/41c115ed626ebe42f5f04e93ff1a68d7/1900x1900-000000-80-0-0.jpg';
+export const IMAGEN_DOS = 'https://i.scdn.co/image/ab67616100005174e12972169702affd7a4c48ec';
